@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 19 03:11:45 CET 2021:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579) systemu Derby: instancja a816c00e-0177-1869-89e5-0000076001e8
+w katalogu bazy danych D:\MOJE_DOKUMENTY\studia\semestr_5\ISMED\projekt\ismed2020z_kryczka_rancew\src\MojaBazaDanych jdk.internal.loader.ClassLoaders$AppClassLoader@45ff54e6 
+
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=D:\MOJE_DOKUMENTY\studia\semestr_5\ISMED\projekt\ismed2020z_kryczka_rancew\src
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Uruchomiono program ³aduj¹cy klasê bazy danych - derby.database.classpath=''
